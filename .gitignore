@@ -1,0 +1,6 @@
+# Local editor configuration
+.vscode/
+
+# Postman local configuration
+.postman/
+postman/
