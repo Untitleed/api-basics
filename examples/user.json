@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "name": "Test User",
+  "active": true,
+  "skills": [
+    "Python",
+    "Git",
+    "HTTP"
+  ],
+  "contact": {
+    "email": "test@example.com",
+    "phone": null
+  }
+}
