@@ -10,6 +10,7 @@ tekstowy format zapisywania i przesyłania uporzadkowanych danych (to nie język
 
 4. Co oznacza null?
 brak wartości =/= 0 
+(null oznacza brak wartości, ale niekoniecznie brak właściwości — właściwość może istnieć i mieć wartość null.)
 
 5. Jak odczytać drugi element tablicy skills z pliku JSON?
 skills[1]
